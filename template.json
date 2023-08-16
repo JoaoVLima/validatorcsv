@@ -1,0 +1,8 @@
+{
+  "column_int": {"type": "int", "is_required": false},
+  "column_float": {"type": "float", "is_required": false},
+  "column_string": {"type": "string", "is_required": false},
+  "column_date": {"type": "date", "format": "%Y-%m-%d", "is_required": false},
+  "column_timestamp": {"type": "timestamp", "format": "%Y-%m-%d %H:%M:%S", "is_required": false},
+  "column_bool": {"type": "bool", "is_required": false}
+}
