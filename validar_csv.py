@@ -79,7 +79,3 @@ class ValidarCSV:
             return True
 
         raise Exception(f'O valor "{valor}" deveria ser {template["type"]}')
-
-        # elif template['type'] == 'string':
-        #     raise Exception(f'Valor deveria ser {template["type"]}')
-
